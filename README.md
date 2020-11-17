@@ -8,6 +8,13 @@ I wanted to keep learning Electron.js, a JavaScript framework for creating deskt
 - Video Recording
 - Ability to choose a screen or a window to record
 
+# Tech Used:
+- HTML
+- CSS
+- JS
+- NODE.JS
+- ELECTRON.JS
+
 # Main App View
 ![](functionality1.png)
 
